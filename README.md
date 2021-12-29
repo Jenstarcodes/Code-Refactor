@@ -26,7 +26,7 @@ SO THAT our own site is optimized for search engines
 [Deployed link:](https://jenstarcodes.github.io/Code-Refactor/)
 
 
-[Github code link:](git@github.com:Jenstarcodes/Code-Refactor.git)
+[Github code link:](https://github.com/Jenstarcodes/Code-Refactor)
 
 ## **References**
 
