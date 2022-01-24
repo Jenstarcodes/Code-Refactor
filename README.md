@@ -2,7 +2,7 @@
 
 ## **Description**
 
- For this project consisted of an existing computer code ("starter code") was provided for restructuring. The end goal was to improve the internal structure (i.e. design, formatting, software implementation) without compromising the original external behavior and funtionality.
+ For this project an existing computer code ("starter code") was provided for restructuring. The end goal was to improve the internal structure (i.e. design, formatting, software implementation) without compromising the original external behavior and functionality.
 
 ## **User Story**
 
